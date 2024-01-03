@@ -1,4 +1,17 @@
 div{
-    background-color: tomato;
-    padding: 10px;
-}
+   background-color: chocolate;
+   padding-left: 20px;
+   padding-top: 30px;
+   padding-bottom: 50px;
+   padding-right: 40px;
+    margin: 10px;
+    color: aqua;
+   
+    text-align: justify;
+    text-emphasis: none;
+    height: 100px;
+    width: 60%;
+    border-radius: 10px;
+    border-style: dotted;
+    background-position: 70%;
+    
